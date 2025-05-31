@@ -16,7 +16,11 @@ Installation:
 Install the required dependencies using pip:
 
 pip install -r requirements.txt
+
 Running the Code
+
 Have the data folder in the same directory
+
 Run the code now
+
 Prediction json file is now created
