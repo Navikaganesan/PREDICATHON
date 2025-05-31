@@ -5,10 +5,14 @@ This project aims to build a deepfake detection model that can classify images a
 
 Features:
 Image Preprocessing: Resize, normalize, and split data into training and test sets.
+
 Model Architecture: CNN-based architecture for binary classification (real or fake).
+
 Prediction Generation: Outputs predictions for test images and saves them in a structured JSON file.
+
 Output: JSON file with predicted labels for each image in the test dataset.
-Installation
+
+Installation:
 Install the required dependencies using pip:
 
 pip install -r requirements.txt
