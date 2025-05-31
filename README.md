@@ -14,6 +14,7 @@ Prediction Generation: Outputs predictions for test images and saves them in a s
 Output: JSON file with predicted labels for each image in the test dataset.
 
 Installation:
+
 Install the required dependencies using pip:
 
 pip install -r requirements.txt
